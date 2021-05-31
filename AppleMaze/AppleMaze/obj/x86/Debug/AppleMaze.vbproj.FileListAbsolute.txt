@@ -1,0 +1,11 @@
+C:\Users\Bill\source\repos\AppleMaze\AppleMaze\bin\Debug\AppleMaze.exe
+C:\Users\Bill\source\repos\AppleMaze\AppleMaze\bin\Debug\AppleMaze.pdb
+C:\Users\Bill\source\repos\AppleMaze\AppleMaze\bin\Debug\AppleMaze.xml
+C:\Users\Bill\source\repos\AppleMaze\AppleMaze\obj\x86\Debug\AppleMaze.vbprojAssemblyReference.cache
+C:\Users\Bill\source\repos\AppleMaze\AppleMaze\obj\x86\Debug\WindowsApplication1.FrmApple.resources
+C:\Users\Bill\source\repos\AppleMaze\AppleMaze\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Bill\source\repos\AppleMaze\AppleMaze\obj\x86\Debug\AppleMaze.vbproj.GenerateResource.cache
+C:\Users\Bill\source\repos\AppleMaze\AppleMaze\obj\x86\Debug\AppleMaze.vbproj.CoreCompileInputs.cache
+C:\Users\Bill\source\repos\AppleMaze\AppleMaze\obj\x86\Debug\AppleMaze.exe
+C:\Users\Bill\source\repos\AppleMaze\AppleMaze\obj\x86\Debug\AppleMaze.xml
+C:\Users\Bill\source\repos\AppleMaze\AppleMaze\obj\x86\Debug\AppleMaze.pdb
